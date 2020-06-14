@@ -1,0 +1,16 @@
+.form-view{
+  /* width: 500px;
+  padding: 20px;
+  background-color: lightcoral;
+  justify-content: center;
+  align-items: center;
+  justify-content: center;
+  align-items: center; */
+}
+.form-view > label {
+  padding: 0px 0px 10px;
+}
+
+#add {
+  text-align: center;
+}
